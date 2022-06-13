@@ -1,11 +1,10 @@
 import React from "react";
-import Carousel from "./components/Carousel.jsx";
-import Collapse from "./components/Collapse.jsx";
+import MyForm from "./components/MyForm.jsx";
 
 function App() {
 	const text = 'collapse me';
 	return (
-		<Collapse text={text} opened={false} />
+		<MyForm />
 	)
 }
 export default App;
