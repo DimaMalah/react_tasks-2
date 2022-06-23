@@ -1,0 +1,35 @@
+[33mcommit 41529d72aa8d537396c6e0f9beee70176e08ce9c[m[33m ([m[1;36mHEAD -> [m[1;32mmy-form[m[33m)[m
+Author: DimaMalah <dmitryaronov77@gmail.com>
+Date:   Wed Jun 15 19:43:43 2022 +0300
+
+    setting data to localstorage
+
+[33mcommit 5dba6d2127ff2fddf06a64a854701308b29be4c9[m
+Author: DimaMalah <dmitryaronov77@gmail.com>
+Date:   Mon Jun 13 15:48:03 2022 +0300
+
+    my-form start
+
+[33mcommit 34eb5aaa2a0e3f561f0d8087078f32408741512e[m[33m ([m[1;31morigin/collapse[m[33m, [m[1;32mcollapse[m[33m)[m
+Author: DimaMalah <dmitryaronov77@gmail.com>
+Date:   Mon Jun 13 15:29:22 2022 +0300
+
+    collapse
+
+[33mcommit e676ab533b71c655dffa3ef30d851bdfb356008d[m[33m ([m[1;31morigin/carousel[m[33m, [m[1;32mcarousel[m[33m)[m
+Author: DimaMalah <dmitryaronov77@gmail.com>
+Date:   Sun Jun 12 23:50:14 2022 +0300
+
+    corousel
+
+[33mcommit b8cc46bd0f6e570669e0618c81993cecbc62e938[m[33m ([m[1;32mmain[m[33m)[m
+Author: DimaMalah <dmitryaronov77@gmail.com>
+Date:   Sat Jun 11 11:37:30 2022 +0300
+
+    clean project
+
+[33mcommit fdcbdff52b4a6cc064c19ac2e6b2de9dbe479b0b[m
+Author: DimaMalah <dmitryaronov77@gmail.com>
+Date:   Sat Jun 11 11:18:25 2022 +0300
+
+    Initialize project using Create React App
